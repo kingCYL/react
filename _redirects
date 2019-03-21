@@ -18,6 +18,7 @@
 /tips/communicate-between-components.html  /docs/components-and-props.html  302
 /tips/false-in-jsx.html  /docs/conditional-rendering.html  302
 /docs/add-react-to-a-new-app.html  /docs/create-a-new-react-app.html  302
+/docs/events-ko-KR.html  /docs/handling-events.html  302
 /docs/  /docs/getting-started.html  302
 /docs/index.html  /docs/getting-started.html  302
 /docs/getting-started-ko-KR.html  /docs/getting-started.html  302
@@ -30,12 +31,10 @@
 /docs/package-management.html  /docs/getting-started.html  302
 /docs/language-tooling.html  /docs/getting-started.html  302
 /docs/environments.html  /docs/getting-started.html  302
-/docs/events-ko-KR.html  /docs/handling-events.html  302
 /docs/displaying-data.html  /docs/rendering-elements.html  302
-/docs/react-api.html#typechecking-with-proptypes  /docs/typechecking-with-proptypes.html  302
 /docs/webcomponents.html  /docs/web-components.html  302
+/docs/react-api.html#typechecking-with-proptypes  /docs/typechecking-with-proptypes.html  302
 /docs/conferences.html  /community/conferences.html  302
-/blog/2014/10/14/introducting-react-elements.html  /blog/2014/10/14/introducing-react-elements.html  302
 /docs/animation-ja-JP.html  /docs/animation.html  302
 /docs/animation-ko-KR.html  /docs/animation.html  302
 /docs/animation-zh-CN.html  /docs/animation.html  302
@@ -75,6 +74,7 @@
 /docs/interactivity-and-dynamic-uis.html  /docs/state-and-lifecycle.html  302
 /blog/2013/11/05/thinking-in-react.html  /docs/thinking-in-react.html  302
 /docs/thinking-in-react-zh-CN.html  /docs/thinking-in-react.html  302
+/blog/2014/10/14/introducting-react-elements.html  /blog/2014/10/14/introducing-react-elements.html  302
 /contributing/design-principles.html  /docs/design-principles.html  302
 /docs/advanced-performance.html  /docs/optimizing-performance.html  302
 /contributing/codebase-overview.html  /docs/codebase-overview.html  302
