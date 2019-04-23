@@ -86,7 +86,7 @@ class FileInput extends React.Component {
   handleSubmit(event) {
     event.preventDefault();
     alert(
-      `Selected file - ${this.fileInput.files[0].name}`
+      `Selected file - ${this.fileInput.current.files[0].name}`
     );
   }
 
